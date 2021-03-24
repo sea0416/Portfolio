@@ -1,0 +1,3 @@
+﻿  Assembling ex.asm...
+ex.obj : error LNK2005: _main@0이(가) Haegang_Yang.obj에 이미 정의되어 있습니다.
+LINK : fatal error LNK1104: 'C:\Irvine32b\Irvine32.lib' 파일을 열 수 없습니다.
